@@ -1,0 +1,17 @@
+The "Kubernetes Literature Dataset" (3rd generation)
+
+This dataset is produced by the scripts of the "Serverless Literature
+Dataset". Therefore, the SLD needs to be downloaded first and this
+folder needs to be placed into it in order to use the scripts when
+adding new entries or producing statistics.
+
+http://kubernetes.research-output.org/ <TBD>
+http://serverless.research-output.org/
+
+Find all detailed documentation with the original scripts. In this file,
+only the diverging commands are documented briefly.
+
+Quick docs:
+-----------
+cd scraper; python3 ../../scraper/parsedblp.py; cd ..
+pthon3 ../populate.py

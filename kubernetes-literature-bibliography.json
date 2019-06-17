@@ -1,0 +1,191 @@
+{
+  "1": {
+    "author": "Mercl, Lubos and Sobeslav, Vladimir and Mikulecky, Peter",
+    "booktitle": "Studies in Computational Intelligence",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-14132-5_33",
+    "title": "Design of Reactive Systems for Control Network Traffic on the Kubernetes Platform",
+    "year": "2019"
+  },
+  "2": {
+    "author": "Borges, Felipe and Pacheco, Luis and Alchieri, Eduardo and Caetano, Marcos F. and Solis, Priscila",
+    "booktitle": "Advances in Intelligent Systems and Computing",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-15032-7_72",
+    "title": "Transparent State Machine Replication for Kubernetes",
+    "year": "2019"
+  },
+  "3": {
+    "author": "Christodoulopoulos, Christos and Petrakis, Euripides G. M.",
+    "booktitle": "Advances in Intelligent Systems and Computing",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-15032-7_83",
+    "title": "Commodore: Fail Safe Container Scheduling in Kubernetes",
+    "year": "2019"
+  },
+  "4": {
+    "author": "Röwekamp, Jan Henrik and Moldt, Daniel",
+    "booktitle": "Lecture Notes in Computer Science",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-21571-2_4",
+    "title": "RenewKube: Reference Net Simulation Scaling with Renew and Kubernetes",
+    "year": "2019"
+  },
+  "5": {
+    "author": "Lin, Chan-Yi and Yeh, Ting-An and Chou, Jerry",
+    "booktitle": "Proceedings of the 9th International Conference on Cloud Computing and Services Science",
+    "retrieved-from-doi": "https://doi.org/10.5220/0007707605690577",
+    "title": "DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster",
+    "year": "2019"
+  },
+  "6": {
+    "author": "Zhou, Jinan and Velichkevich, Andrey and Prosvirov, Kirill and Garg, Anubhav and Oshima, Yuji and Dutta, Debo",
+    "booktitle": "2019 USENIX Conference on Operational Machine Learning (OpML 19)",
+    "retrieved-from-usenix": "https://www.usenix.org/conference/opml19/presentation/zhou",
+    "title": "Katib: A Distributed General AutoML Platform on Kubernetes",
+    "year": "2019"
+  },
+  "7": {
+    "author": "Rehman, Kasim and Kipouridis, Orthodoxos and Karnouskos, Stamatis and Frendo, Oliver and Dickel, Helge and Lipps, Jonas and Verzano, Nemrude",
+    "booktitle": "2019 IEEE/SICE International Symposium on System Integration (SII)",
+    "retrieved-from-doi": "https://doi.org/10.1109/SII.2019.8700423",
+    "title": "A Cloud-based Development Environment using HLA and Kubernetes for the Co-simulation of a Corporate Electric Vehicle Fleet",
+    "year": "2019"
+  },
+  "8": {
+    "author": "Townend, Paul and Clement, Stephen and Burdett, Dan and Yang, Renyu and Shaw, Joe and Slater, Brad and Xu, Jie",
+    "booktitle": "2019 IEEE International Conference on Service-Oriented System Engineering (SOSE)",
+    "retrieved-from-doi": "https://doi.org/10.1109/SOSE.2019.00030",
+    "title": "Invited Paper: Improving Data Center Efficiency Through Holistic Scheduling In Kubernetes",
+    "year": "2019"
+  },
+  "9": {
+    "author": "Josef Spillner",
+    "journal": "arXiv/CoRR",
+    "retrieved-from-arxiv": "http://arxiv.org/abs/1901.00644",
+    "title": "Quality Assessment and Improvement of Helm Charts for Kubernetes-Based Cloud Applications",
+    "year": "2019"
+  },
+  "10": {
+    "author": "Leila Abdollahi Vayghan, Mohamed Aymen Saied, Maria Toeroe, Ferhat Khendek",
+    "journal": "arXiv/CoRR",
+    "retrieved-from-arxiv": "http://arxiv.org/abs/1901.04946",
+    "title": "Kubernetes as an Availability Manager for Microservice Applications",
+    "year": "2019"
+  },
+  "11": {
+    "author": "Medel, Víctor and Tolosana-Calasanz, Rafael and Bañares, José Ángel and Arronategui, Unai and Rana, Omer F.",
+    "journal": "Computers & Electrical Engineering",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.compeleceng.2018.03.041",
+    "title": "Characterising resource management performance in Kubernetes",
+    "year": "2018"
+  },
+  "12": {
+    "author": "Abdollahi Vayghan, Leila and Saied, Mohamed Aymen and Toeroe, Maria and Khendek, Ferhat",
+    "booktitle": "2018 IEEE 11th International Conference on Cloud Computing (CLOUD)",
+    "retrieved-from-doi": "https://doi.org/10.1109/CLOUD.2018.00148",
+    "title": "Deploying Microservice Based Applications with Kubernetes: Experiments and Lessons Learned",
+    "year": "2018"
+  },
+  "13": {
+    "author": "Takahashi, Kimitoshi and Aida, Kento and Tanjo, Tomoya and Sun, Jingtao",
+    "booktitle": "Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region - HPC Asia 2018",
+    "retrieved-from-doi": "https://doi.org/10.1145/3149457.3149473",
+    "title": "A Portable Load Balancer for Kubernetes Cluster",
+    "year": "2018"
+  },
+  "14": {
+    "author": "Hariri, Sahand and Kind, Matias Carrasco",
+    "booktitle": "Proceedings of the 9th Workshop on Scientific Cloud Computing - ScienceCloud’18",
+    "retrieved-from-doi": "https://doi.org/10.1145/3217880.3217883",
+    "title": "Batch and online anomaly detection for scientific applications in a Kubernetes environment",
+    "year": "2018"
+  },
+  "15": {
+    "author": "Kristiani, Endah and Yang, Chao-Tung and Wang, Yuan Ting and Huang, Chin-Yin",
+    "booktitle": "Lecture Notes in Electrical Engineering",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-981-13-1056-0_66",
+    "title": "Implementation of an Edge Computing Architecture Using OpenStack and Kubernetes",
+    "year": "2018"
+  },
+  "16": {
+    "author": "Netto, Hylson Vescovi and Luiz, Aldelir Fernando and Correia, Miguel and de Oliveira Rech, Luciana and Oliveira, Caio Pereira",
+    "booktitle": "2018 IEEE Symposium on Computers and Communications (ISCC)",
+    "retrieved-from-doi": "https://doi.org/10.1109/ISCC.2018.8538452",
+    "title": "Koordinator: A Service Approach for Replicating Docker Containers in Kubernetes",
+    "year": "2018"
+  },
+  "17": {
+    "author": "Song, Shengbo and Deng, Lelai and Gong, Jun and Luo, Hanmei",
+    "booktitle": "2018 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Ubiquitous Computing & Communications, Big Data & Cloud Computing, Social Computing & Networking, Sustainable Computing & Communications (ISPA/IUCC/BDCloud/SocialCom/SustainCom)",
+    "retrieved-from-doi": "https://doi.org/10.1109/BDCloud.2018.00048",
+    "title": "Gaia Scheduler: A Kubernetes-Based Scheduler Framework",
+    "year": "2018"
+  },
+  "18": {
+    "author": "Xu, Cong and Rajamani, Karthick and Felter, Wesley",
+    "booktitle": "Proceedings of the 19th International Middleware Conference Industry on - Middleware ’18",
+    "retrieved-from-doi": "https://doi.org/10.1145/3284028.3284033",
+    "title": "NBWGuard",
+    "year": "2018"
+  },
+  "19": {
+    "author": "Brewer, Eric",
+    "booktitle": "Proceedings of the 2018 International Conference on Management of Data - SIGMOD ’18",
+    "retrieved-from-doi": "https://doi.org/10.1145/3183713.3183725",
+    "title": "Kubernetes and the New Cloud",
+    "year": "2018"
+  },
+  "20": {
+    "author": "Aly, Mohab and Khomh, Foutse and Yacout, Soumaya",
+    "booktitle": "2018 IEEE 11th Conference on Service-Oriented Computing and Applications (SOCA)",
+    "retrieved-from-doi": "https://doi.org/10.1109/SOCA.2018.00024",
+    "title": "Kubernetes or OpenShift? Which Technology Best Suits Eclipse Hono IoT Deployments",
+    "year": "2018"
+  },
+  "21": {
+    "author": "Kho Lin, San and Altaf, Umer and Jayaputera, Glenn and Li, Jiajie and Marques, Davis and Meggyesy, David and Sarwar, Sulman and Sharma, Shivank and Voorsluys, William and Sinnott, Richard and et al.",
+    "booktitle": "2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion)",
+    "retrieved-from-doi": "https://doi.org/10.1109/UCC-Companion.2018.00076",
+    "title": "Auto-Scaling a Defence Application across the Cloud Using Docker and Kubernetes",
+    "year": "2018"
+  },
+  "22": {
+    "author": "Orzechowski, Michal and Balis, Bartosz and Pawlik, Krystian and Pawlik, Maciej and Malawski, Maciej",
+    "booktitle": "2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion)",
+    "retrieved-from-doi": "https://doi.org/10.1109/UCC-Companion.2018.00020",
+    "title": "Transparent Deployment of Scientific Workflows across Clouds - Kubernetes Approach",
+    "year": "2018"
+  },
+  "23": {
+    "author": "Sarajlic, Semir and Chastang, Julien and Marru, Suresh and Fischer, Jeremy and Lowe, Mike",
+    "booktitle": "Proceedings of the Practice and Experience on Advanced Research Computing - PEARC ’18",
+    "retrieved-from-doi": "https://doi.org/10.1145/3219104.3229249",
+    "title": "Scaling JupyterHub Using Kubernetes on Jetstream Cloud",
+    "year": "2018"
+  },
+  "24": {
+    "author": "Netto, Hylson V. and Lung, Lau Cheuk and Correia, Miguel and Luiz, Aldelir Fernando and Sá de Souza, Luciana Moreira",
+    "journal": "Journal of Systems Architecture",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.sysarc.2016.12.007",
+    "title": "State machine replication in containers managed by Kubernetes",
+    "year": "2017"
+  },
+  "25": {
+    "author": "Tsai, Pei-Hsuan and Hong, Hua-Jun and Cheng, An-Chieh and Hsu, Cheng-Hsin",
+    "booktitle": "2017 19th Asia-Pacific Network Operations and Management Symposium (APNOMS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/APNOMS.2017.8094194",
+    "title": "Distributed analytics in fog computing platforms using tensorflow and kubernetes",
+    "year": "2017"
+  },
+  "26": {
+    "author": "Medel, Víctor and Tolón, Carlos and Arronategui, Unai and Tolosana-Calasanz, Rafael and Bañares, José Ángel and Rana, Omer F.",
+    "booktitle": "Lecture Notes in Computer Science",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-319-68066-8_13",
+    "title": "Client-Side Scheduling Based on Application Characterization on Kubernetes",
+    "year": "2017"
+  },
+  "27": {
+    "author": "Chang, Chia-Chen and Yang, Shun-Ren and Yeh, En-Hau and Lin, Phone and Jeng, Jeu-Yih",
+    "booktitle": "GLOBECOM 2017 - 2017 IEEE Global Communications Conference",
+    "retrieved-from-doi": "https://doi.org/10.1109/GLOCOM.2017.8254046",
+    "title": "A Kubernetes-Based Monitoring Platform for Dynamic Cloud Resource Provisioning",
+    "year": "2017"
+  }
+}
