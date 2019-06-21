@@ -1,0 +1,9 @@
+Years: [('2019', 10), ('2018', 13), ('2017', 4)]
+Number of countries: 0
+Countries: []
+Ratio academic to industry to both: 0 : 0 : 0 = 0.0 0.0 0.0
+Number of institutions: 0.0 per paper; 0 involved in total
+Number of technologies: 27 ; open source: 0
+Technologies: []
+Technology by authors: []
+JSON keys: 648
