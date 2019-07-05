@@ -1,9 +1,9 @@
 Years: [('2019', 10), ('2018', 13), ('2017', 4)]
-Number of countries: 7
-Countries: [('Germany', 2), ('USA', 1), ('UK', 1), ('Taiwan', 1), ('Switzerland', 1), ('Japan', 1), ('Canada', 1)]
-Ratio academic to industry to both: 3 : 2 : 2 = 0.1111111111111111 0.07407407407407407 0.07407407407407407
-Number of institutions: 0.37037037037037035 per paper; 10 involved in total
-Number of technologies: 4 ; open source: 3
-Technologies: [('RenewKube', 1), ('Katib', 1), ('HelmQA', 1), ('Dragon', 1)]
-Technology by authors: [('RenewKube', 1), ('Katib', 1), ('HelmQA', 1), ('Dragon', 1)]
-JSON keys: 533
+Number of countries: 10
+Countries: [('USA', 4), ('Canada', 3), ('UK', 2), ('Japan', 2), ('Germany', 2), ('China', 2), ('Taiwan', 1), ('Switzerland', 1), ('Spain', 1), ('Brazil', 1)]
+Ratio academic to industry to both: 9 : 3 : 5 = 0.3333333333333333 0.1111111111111111 0.18518518518518517
+Number of institutions: 1.037037037037037 per paper; 26 involved in total
+Number of technologies: 7 ; open source: 3
+Technologies: [('RenewKube', 1), ('NBWGuard', 1), ('Koordinator', 1), ('Katib', 1), ('HelmQA', 1), ('Gaia', 1), ('Dragon', 1)]
+Technology by authors: [('RenewKube', 1), ('NBWGuard', 1), ('Koordinator', 1), ('Katib', 1), ('HelmQA', 1), ('Gaia', 1), ('Dragon', 1)]
+JSON keys: 548

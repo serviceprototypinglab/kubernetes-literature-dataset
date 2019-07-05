@@ -22,5 +22,23 @@
     "link": "https://serviceprototypinglab.github.io/helmqa/",
     "open-source": true,
     "supported-languages": []
+  },
+  "Koordinator": {
+    "actively-maintained": false,
+    "link": "",
+    "open-source": false,
+    "supported-languages": []
+  },
+  "Gaia": {
+    "actively-maintained": false,
+    "link": "",
+    "open-source": false,
+    "supported-languages": []
+  },
+  "NBWGuard": {
+    "actively-maintained": false,
+    "link": "",
+    "open-source": false,
+    "supported-languages": []
   }
 }

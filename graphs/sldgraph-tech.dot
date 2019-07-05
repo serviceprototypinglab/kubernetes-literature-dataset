@@ -1,15 +1,24 @@
 digraph sldgraph {
 overlap=false;
-_S25732 -> _S69451;
-_S55087 -> _S49213;
-_S53787 -> _S70528;
-_S56900 -> _S23073;
-_S25732 [label="6"];
-_S53787 [label="4"];
-_S69451 [label="Katib",shape=box,style=filled,fillcolor="#a0a0f0"];
-_S55087 [label="9"];
-_S56900 [label="5"];
-_S49213 [label="HelmQA",shape=box,style=filled,fillcolor="#a0a0f0"];
-_S23073 [label="Dragon",shape=box,style=filled,fillcolor="#a0a0f0"];
-_S70528 [label="RenewKube",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S57828 -> _S31969;
+_S66830 -> _S37872;
+_S86291 -> _S29067;
+_S49274 -> _S66593;
+_S39948 -> _S89728;
+_S64017 -> _S76462;
+_S27012 -> _S78301;
+_S66593 [label="NBWGuard",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S29067 [label="HelmQA",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S76462 [label="Dragon",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S66830 [label="17"];
+_S37872 [label="Gaia",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S57828 [label="16"];
+_S27012 [label="4"];
+_S31969 [label="Koordinator",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S39948 [label="6"];
+_S49274 [label="18"];
+_S78301 [label="RenewKube",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S64017 [label="5"];
+_S86291 [label="9"];
+_S89728 [label="Katib",shape=box,style=filled,fillcolor="#a0a0f0"];
 }
