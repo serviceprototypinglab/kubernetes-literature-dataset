@@ -1,3 +1,25 @@
 digraph sldgraph {
 overlap=false;
+_S39648 -> _S54005;
+_S39648 -> _S24613;
+_S61080 -> _S61399;
+_S16600 -> _S19836;
+_S46485 -> _S53687;
+_S77311 -> _S84446;
+_S57388 -> _S61399;
+_S57905 -> _S76449;
+_S54005 [label="USA",shape=box,style=filled,fillcolor="#80d0e0"];
+_S53687 [label="UK",shape=box,style=filled,fillcolor="#80d0e0"];
+_S24613 [label="Japan",shape=box,style=filled,fillcolor="#80d0e0"];
+_S46485 [label="8"];
+_S16600 [label="9"];
+_S57905 [label="5"];
+_S19836 [label="Switzerland",shape=box,style=filled,fillcolor="#80d0e0"];
+_S61080 [label="7"];
+_S39648 [label="6"];
+_S57388 [label="4"];
+_S84446 [label="Canada",shape=box,style=filled,fillcolor="#80d0e0"];
+_S76449 [label="Taiwan",shape=box,style=filled,fillcolor="#80d0e0"];
+_S61399 [label="Germany",shape=box,style=filled,fillcolor="#80d0e0"];
+_S77311 [label="10"];
 }

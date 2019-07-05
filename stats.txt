@@ -1,9 +1,9 @@
 Years: [('2019', 10), ('2018', 13), ('2017', 4)]
-Number of countries: 0
-Countries: []
-Ratio academic to industry to both: 0 : 0 : 0 = 0.0 0.0 0.0
-Number of institutions: 0.0 per paper; 0 involved in total
-Number of technologies: 27 ; open source: 0
-Technologies: []
-Technology by authors: []
-JSON keys: 648
+Number of countries: 7
+Countries: [('Germany', 2), ('USA', 1), ('UK', 1), ('Taiwan', 1), ('Switzerland', 1), ('Japan', 1), ('Canada', 1)]
+Ratio academic to industry to both: 3 : 2 : 2 = 0.1111111111111111 0.07407407407407407 0.07407407407407407
+Number of institutions: 0.37037037037037035 per paper; 10 involved in total
+Number of technologies: 4 ; open source: 3
+Technologies: [('RenewKube', 1), ('Katib', 1), ('HelmQA', 1), ('Dragon', 1)]
+Technology by authors: [('RenewKube', 1), ('Katib', 1), ('HelmQA', 1), ('Dragon', 1)]
+JSON keys: 533

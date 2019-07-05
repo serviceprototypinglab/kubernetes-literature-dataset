@@ -1,3 +1,31 @@
 digraph sldgraph {
 overlap=false;
+_S57767 -> _S70276;
+_S87147 -> _S70276;
+_S81167 -> _S88977;
+_S72241 -> _S88977;
+_S74363 -> _S88977;
+_S83621 -> _S24971;
+_S90955 -> _S24971;
+_S58221 -> _S24971;
+_S89068 -> _S24971;
+_S35757 -> _S24971;
+_S79879 -> _S24971;
+_S75101 -> _S43236;
+_S87147 [label="Daniel Moldt"];
+_S90955 [label="Andrey Velichkevich"];
+_S57767 [label="Jan Henrik Röwekamp"];
+_S58221 [label="Kirill Prosvirov"];
+_S35757 [label="Yuji Oshima"];
+_S83621 [label="Jinan Zhou"];
+_S81167 [label="Chan-Yi Lin"];
+_S43236 [label="HelmQA",shape=box,style=filled,fillcolor="#ffe0e0"];
+_S75101 [label="Josef Spillner"];
+_S24971 [label="Katib",shape=box,style=filled,fillcolor="#ffe0e0"];
+_S74363 [label="Jerry Chou"];
+_S89068 [label="Anubhav Garg"];
+_S79879 [label="Debo Dutta"];
+_S72241 [label="Ting-An Yeh"];
+_S70276 [label="RenewKube",shape=box,style=filled,fillcolor="#ffe0e0"];
+_S88977 [label="Dragon",shape=box,style=filled,fillcolor="#e0e0ff"];
 }

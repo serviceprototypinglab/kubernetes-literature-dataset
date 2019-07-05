@@ -1,3 +1,15 @@
 digraph sldgraph {
 overlap=false;
+_S25732 -> _S69451;
+_S55087 -> _S49213;
+_S53787 -> _S70528;
+_S56900 -> _S23073;
+_S25732 [label="6"];
+_S53787 [label="4"];
+_S69451 [label="Katib",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S55087 [label="9"];
+_S56900 [label="5"];
+_S49213 [label="HelmQA",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S23073 [label="Dragon",shape=box,style=filled,fillcolor="#a0a0f0"];
+_S70528 [label="RenewKube",shape=box,style=filled,fillcolor="#a0a0f0"];
 }

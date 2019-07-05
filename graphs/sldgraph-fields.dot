@@ -1,3 +1,22 @@
 digraph sldgraph {
 overlap=false;
+_S42590 -> _S24075;
+_S52811 -> _S60183;
+_S97946 -> _S60381;
+_S36407 -> _S90911;
+_S78746 -> _S89281;
+_S15597 -> _S60183;
+_S53840 -> _S90911;
+_S52811 [label="7"];
+_S90911 [label="scheduling",shape=box,style=filled,fillcolor="#60b0ff"];
+_S78746 [label="10"];
+_S53840 [label="5"];
+_S42590 [label="6"];
+_S36407 [label="8"];
+_S24075 [label="dataanalytics",shape=box,style=filled,fillcolor="#60b0ff"];
+_S60381 [label="softwareengineering",shape=box,style=filled,fillcolor="#60b0ff"];
+_S60183 [label="simulation",shape=box,style=filled,fillcolor="#60b0ff"];
+_S89281 [label="availability",shape=box,style=filled,fillcolor="#60b0ff"];
+_S15597 [label="4"];
+_S97946 [label="9"];
 }

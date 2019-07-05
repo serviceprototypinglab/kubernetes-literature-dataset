@@ -1,3 +1,30 @@
 digraph sldgraph {
 overlap=false;
+_S46592 -> _S83633;
+_S46592 -> _S28132;
+_S30876 -> _S32683;
+_S68205 -> _S78160;
+_S94086 -> _S68577;
+_S94086 -> _S17021;
+_S40384 -> _S65905;
+_S40384 -> _S52409;
+_S64077 -> _S42574;
+_S12854 -> _S98457;
+_S42574 [label="University of Hamburg",shape=box,style=filled,fillcolor="#d0e080"];
+_S17021 [label="Edgetic Ltd",shape=box,style=filled,fillcolor="#d0e080"];
+_S30876 [label="7"];
+_S68205 [label="9"];
+_S12854 [label="5"];
+_S83633 [label="Cisco Systems",shape=box,style=filled,fillcolor="#d0e080"];
+_S40384 [label="10"];
+_S78160 [label="Zurich University of Applied Sciences",shape=box,style=filled,fillcolor="#d0e080"];
+_S28132 [label="NTT Software Innovation Center",shape=box,style=filled,fillcolor="#d0e080"];
+_S52409 [label="Ericsson",shape=box,style=filled,fillcolor="#d0e080"];
+_S94086 [label="8"];
+_S65905 [label="Concordia University",shape=box,style=filled,fillcolor="#d0e080"];
+_S46592 [label="6"];
+_S68577 [label="University of Leeds",shape=box,style=filled,fillcolor="#d0e080"];
+_S98457 [label="National Tsing Hua University",shape=box,style=filled,fillcolor="#d0e080"];
+_S64077 [label="4"];
+_S32683 [label="SAP",shape=box,style=filled,fillcolor="#d0e080"];
 }

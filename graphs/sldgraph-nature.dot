@@ -1,3 +1,25 @@
 digraph sldgraph {
 overlap=false;
+_S87618 -> _S10237;
+_S87618 -> _S62372;
+_S19458 -> _S10237;
+_S88631 -> _S65597;
+_S68153 -> _S56696;
+_S68153 -> _S13048;
+_S96096 -> _S65597;
+_S35645 -> _S56696;
+_S74534 -> _S56696;
+_S74534 -> _S13048;
+_S68153 [label="8"];
+_S13048 [label="controller",shape=box,style=filled,fillcolor="#d0d050"];
+_S96096 [label="10"];
+_S19458 [label="7"];
+_S74534 [label="5"];
+_S62372 [label="platform",shape=box,style=filled,fillcolor="#d0d050"];
+_S35645 [label="4"];
+_S87618 [label="6"];
+_S88631 [label="9"];
+_S65597 [label="analysis",shape=box,style=filled,fillcolor="#d0d050"];
+_S56696 [label="framework",shape=box,style=filled,fillcolor="#d0d050"];
+_S10237 [label="application",shape=box,style=filled,fillcolor="#d0d050"];
 }
