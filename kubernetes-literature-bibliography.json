@@ -187,5 +187,103 @@
     "retrieved-from-doi": "https://doi.org/10.1109/GLOCOM.2017.8254046",
     "title": "A Kubernetes-Based Monitoring Platform for Dynamic Cloud Resource Provisioning",
     "year": "2017"
+  },
+  "28": {
+    "author": "Gawel, Maciej and Zielinski, Krzysztof",
+    "booktitle": "2019 IEEE 12th International Conference on Cloud Computing (CLOUD)",
+    "retrieved-from-doi": "https://doi.org/10.1109/CLOUD.2019.00094",
+    "title": "Analysis and Evaluation of Kubernetes Based NFV Management and Orchestration",
+    "year": "2019"
+  },
+  "29": {
+    "author": "Rattihalli, Gourav and Govindaraju, Madhusudhan and Lu, Hui and Tiwari, Devesh",
+    "booktitle": "2019 IEEE 12th International Conference on Cloud Computing (CLOUD)",
+    "retrieved-from-doi": "https://doi.org/10.1109/CLOUD.2019.00018",
+    "title": "Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estimation in Kubernetes",
+    "year": "2019"
+  },
+  "30": {
+    "author": "Kouchaksaraei, Hadi Razzaghi and Karl, Holger",
+    "booktitle": "Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems - DEBS ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3328905.3332505",
+    "title": "Service Function Chaining Across OpenStack and Kubernetes Domains",
+    "year": "2019"
+  },
+  "31": {
+    "author": "Chiba, Tatsuhiro and Nakazawa, Rina and Horii, Hiroshi and Suneja, Sahil and Seelam, Seetharami",
+    "booktitle": "2019 IEEE International Conference on Cloud Engineering (IC2E)",
+    "retrieved-from-doi": "https://doi.org/10.1109/IC2E.2019.00031",
+    "title": "ConfAdvisor: A Performance-centric Configuration Tuning Framework for Containers on Kubernetes",
+    "year": "2019"
+  },
+  "32": {
+    "author": "Mercl, Lubos and Pavlik, Jakub",
+    "booktitle": "Lecture Notes in Computer Science",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-28374-2_56",
+    "title": "Public Cloud Kubernetes Storage Performance Analysis",
+    "year": "2019"
+  },
+  "33": {
+    "author": "Thurgood, Brandon and Lennon, Ruth G.",
+    "booktitle": "Proceedings of the 3rd International Conference on Future Networks and Distributed Systems - ICFNDS ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3341325.3341995",
+    "title": "Cloud Computing With Kubernetes Cluster Elastic Scaling",
+    "year": "2019"
+  },
+  "34": {
+    "author": "Ungureanu, Oana-Mihaela and Vlădeanu, Călin and Kooij, Robert",
+    "booktitle": "Proceedings of the 3rd International Conference on Future Networks and Distributed Systems - ICFNDS ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3341325.3341992",
+    "title": "Kubernetes cluster optimization using hybrid shared-state scheduling framework",
+    "year": "2019"
+  },
+  "35": {
+    "author": "Surantha, Nico and Ivan, Felix",
+    "booktitle": "Advances in Intelligent Systems and Computing",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-22263-5_34",
+    "title": "Secure Kubernetes Networking Design Based on Zero Trust Model: A Case Study of Financial Service Enterprise in Indonesia",
+    "year": "2019"
+  },
+  "36": {
+    "author": "Santos, José and Wauters, Tim and Volckaert, Bruno and De Turck, Filip",
+    "booktitle": "2019 IEEE Conference on Network Softwarization (NetSoft)",
+    "retrieved-from-doi": "https://doi.org/10.1109/NETSOFT.2019.8806671",
+    "title": "Towards Network-Aware Resource Provisioning in Kubernetes for Fog Computing Applications",
+    "year": "2019"
+  },
+  "37": {
+    "author": "Abdollahi Vayghan, Leila and Saied, Mohamed Aymen and Toeroe, Maria and Khendek, Ferhat",
+    "booktitle": "2019 IEEE 19th International Conference on Software Quality, Reliability and Security (QRS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/QRS.2019.00034",
+    "title": "Microservice Based Architecture: Towards High-Availability for Stateful Applications with Kubernetes",
+    "year": "2019"
+  },
+  "38": {
+    "author": "Haja, David and Szalay, Mark and Sonkoly, Balazs and Pongracz, Gergely and Toka, Laszlo",
+    "booktitle": "Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos on - SIGCOMM Posters and Demos ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3342280.3342335",
+    "title": "Sharpening Kubernetes for the Edge",
+    "year": "2019"
+  },
+  "39": {
+    "author": "Patel, Jemish and Tadi, Goutam and Basarir, Oz and Hamel, Lawrence and Sharp, David and Yang, Fei and Zhang, Xin",
+    "booktitle": "Proceedings of the 2019 International Conference on Management of Data - SIGMOD ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3299869.3320229",
+    "title": "Pivotal Greenplum© for Kubernetes: Demonstration of Managing Greenplum Database on Kubernetes",
+    "year": "2019"
+  },
+  "40": {
+    "author": "Zheng, Wei-Sheng and Yen, Li-Hsing",
+    "booktitle": "New Trends in Computer Technologies and Applications",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-981-13-9190-3_35",
+    "title": "Auto-scaling in Kubernetes-Based Fog Computing Platform",
+    "year": "2019"
+  },
+  "41": {
+    "author": "Aled, James and Daniel, Schien",
+    "journal": "Proceedings of the 6th International Conference on ICT for Sustainability",
+    "link": "http://ceur-ws.org/Vol-2382/ICT4S2019_paper_28.pdf",
+    "title": "A Low Carbon Kubernetes Scheduler",
+    "year": "2019"
   }
 }

@@ -46,5 +46,35 @@
     "link": "",
     "open-source": false,
     "supported-languages": []
+  },
+  "RUBAS": {
+    "actively-maintained": false,
+    "link": "",
+    "open-source": false,
+    "supported-languages": []
+  },
+  "Pishahang": {
+    "actively-maintained": true,
+    "link": "https://github.com/CN-UPB/Pishahang",
+    "open-source": true,
+    "supported-languages": []
+  },
+  "ConfAdvisor": {
+    "actively-maintained": false,
+    "link": "",
+    "open-source": false,
+    "supported-languages": []
+  },
+  "Azure Kubernetes Service": {
+    "actively-maintained": true,
+    "link": "https://azure.microsoft.com/en-us/services/kubernetes-service/",
+    "open-source": false,
+    "supported-languages": []
+  },
+  "kubernetes-edge-scheduler": {
+    "actively-maintained": true,
+    "link": "https://github.com/davidhaja/kubernetes-edge-scheduler",
+    "open-source": true,
+    "supported-languages": []
   }
 }
