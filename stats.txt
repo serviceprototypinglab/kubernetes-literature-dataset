@@ -1,9 +1,9 @@
-Years: [('2019', 10), ('2018', 13), ('2017', 4)]
-Number of countries: 13
-Countries: [('USA', 5), ('UK', 3), ('Taiwan', 3), ('Canada', 3), ('Spain', 2), ('Japan', 2), ('Germany', 2), ('China', 2), ('Brazil', 2), ('Switzerland', 1), ('Portugal', 1), ('Poland', 1), ('Australia', 1)]
-Ratio academic to industry to both: 13 : 3 : 8 = 0.48148148148148145 0.1111111111111111 0.2962962962962963
-Number of institutions: 1.5925925925925926 per paper; 36 involved in total
-Number of technologies: 8 ; open source: 3
-Technologies: [('RenewKube', 1), ('NBWGuard', 1), ('Koordinator', 1), ('Katib', 1), ('HelmQA', 1), ('Gaia', 1), ('Dragon', 1), ('ATHENA', 1)]
-Technology by authors: [('RenewKube', 1), ('NBWGuard', 1), ('Koordinator', 1), ('Katib', 1), ('HelmQA', 1), ('Gaia', 1), ('Dragon', 1), ('ATHENA', 1)]
-JSON keys: 553
+Years: [('2019', 24), ('2018', 13), ('2017', 4)]
+Number of countries: 21
+Countries: [('USA', 8), ('UK', 4), ('Taiwan', 4), ('Canada', 4), ('Japan', 3), ('Germany', 3), ('Spain', 2), ('Poland', 2), ('China', 2), ('Brazil', 2), ('Switzerland', 1), ('Singapore', 1), ('Romania', 1), ('Portugal', 1), ('Netherlands', 1), ('Jakarta', 1), ('Ireland', 1), ('Hungary', 1), ('Czech Republic', 1), ('Belgium', 1), ('Australia', 1)]
+Ratio academic to industry to both: 23 : 5 : 10 = 0.5609756097560976 0.12195121951219512 0.24390243902439024
+Number of institutions: 1.5609756097560976 per paper; 54 involved in total
+Number of technologies: 13 ; open source: 5
+Technologies: [('kubernetes-edge-scheduler', 1), ('RenewKube', 1), ('RUBAS', 1), ('Pishahang', 1), ('NBWGuard', 1), ('Koordinator', 1), ('Katib', 1), ('HelmQA', 1), ('Gaia', 1), ('Dragon', 1), ('ConfAdvisor', 1), ('Azure Kubernetes Service', 1), ('ATHENA', 1)]
+Technology by authors: [('kubernetes-edge-scheduler', 1), ('RenewKube', 1), ('RUBAS', 1), ('Pishahang', 1), ('NBWGuard', 1), ('Koordinator', 1), ('Katib', 1), ('HelmQA', 1), ('Gaia', 1), ('Dragon', 1), ('ConfAdvisor', 1), ('ATHENA', 1)]
+JSON keys: 844
