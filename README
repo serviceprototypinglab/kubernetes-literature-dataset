@@ -24,3 +24,4 @@ git clone https://github.com/serviceprototypinglab/kubernetes-literature-dataset
 cd kubernetes-literature-dataset
 cd scraper; python3 ../../scraper/parsedblp.py; cd ..
 python3 ../populate.py
+# ... (same with stats.py, graph.py etc.)
