@@ -1,17 +1,26 @@
 The "Kubernetes Literature Dataset"
+https://zenodo.org/communities/splab/
+
+This curated dataset contains a graph representation of research output
+and technologies around Kubernetes. It covers over 40 works from 2017 to
+2019 in its second revision.
 
 This dataset is produced by the scripts of the "Serverless Literature
-Dataset". Therefore, the SLD needs to be downloaded first and this
-folder needs to be placed into it in order to use the scripts when
-adding new entries or producing statistics.
+Dataset", rebranded in generic form to "Structured Literature Dataset".
+Therefore, the SLD needs to be downloaded first and this folder needs to
+be placed into it in order to use the scripts when adding new entries or
+producing statistics. Or just browse the existing results online.
 
-http://kubernetes.research-output.org/ <TBD>
-http://serverless.research-output.org/
+http://kubernetes.research-output.org/
 
 Find all detailed documentation with the original scripts. In this file,
 only the diverging commands are documented briefly.
 
 Quick docs:
 -----------
+git clone https://github.com/serviceprototypinglab/serverless-literature-dataset
+cd serverless-literature-dataset
+git clone https://github.com/serviceprototypinglab/kubernetes-literature-dataset
+cd kubernetes-literature-dataset
 cd scraper; python3 ../../scraper/parsedblp.py; cd ..
-pthon3 ../populate.py
+python3 ../populate.py
